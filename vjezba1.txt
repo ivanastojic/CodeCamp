@@ -13,3 +13,4 @@ func main() {
 	fmt.Println(age)
 	fmt.Println(height)
 	fmt.Println(isStudent)
+}
